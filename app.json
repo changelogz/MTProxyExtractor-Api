@@ -1,0 +1,7 @@
+{
+  "name": "MTProxyExtractor-Api",
+  "description": "MTProto extractor from telegram channels",
+  "repository": "https://github.com/KevinScruff/MTProxyExtractor-Api",
+  "keywords": ["MTProxy", "MTProto", "Proxy", "Api"]
+}
+
